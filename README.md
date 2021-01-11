@@ -54,7 +54,8 @@ Steps -->
 <h4>  b)Mysql database   </h4>  
 
 
-CONTROL FLOW DESCRIPTION          
+CONTROL FLOW DESCRIPTION      
+
      -----------------------------------------------------------------------------------------------------------------------
      |  FRONT END                                                                                                          |
      |   index.php<--->program.php<---->course.php<---->achievements.php<--->research.php<-->events.php<--->people.php     |
