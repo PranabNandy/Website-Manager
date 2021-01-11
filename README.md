@@ -37,21 +37,21 @@ Steps -->
                  c)Now you can navigate through the sites
 
 <h3>Technology Used--</h3>
-<h4>                 a)PHP----------For basic code
-                 b)Javascript---Some Interactive Features
-                 c)CSS----------For styling the web page
-                 d)sql----------For database query
-                 e)HTML---------For Body elements on web page
+<h4>                 a)PHP----------For basic code  </h4>  
+ <h4>                  b)Javascript---Some Interactive Features   </h4>  
+ <h4>                  c)CSS----------For styling the web page   </h4>  
+ <h4>                  d)sql----------For database query   </h4>  
+ <h4>                  e)HTML---------For Body elements on web page   </h4>  
                  
-</h4>                 
-software used----XAMPP(Provides tools--Apache server and Mysql database)
+               
+<h4>  software used----XAMPP(Provides tools--Apache server and Mysql database) </h4>  
 
 
-Tools------------
+<h3>Tools------------</h3>
 
-a)Apache Server
+<h4>  a)Apache Server  </h4>  
 
-b)Mysql database
+<h4>  b)Mysql database   </h4>  
 
 
 CONTROL FLOW DESCRIPTION          
