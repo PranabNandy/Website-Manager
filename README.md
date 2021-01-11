@@ -107,3 +107,5 @@ Steps -->
 
 
 ![Methodology](/image/20.jpg)
+
+![Methodology](/image/6.png)
