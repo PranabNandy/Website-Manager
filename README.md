@@ -104,3 +104,6 @@ Steps -->
                               pssword=1234
                     
 
+
+
+![Methodology](/images/20.jpg)
