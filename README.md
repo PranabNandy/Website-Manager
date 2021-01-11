@@ -106,4 +106,4 @@ Steps -->
 
 
 
-![Methodology](/images/20.jpg)
+![Methodology](/image/20.jpg)
