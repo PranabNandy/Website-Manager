@@ -54,7 +54,7 @@ Steps -->
 <h4>  b)Mysql database   </h4>  
 
 
-CONTROL FLOW DESCRIPTION      
+<h1>CONTROL FLOW DESCRIPTION      </h1>
 
      -----------------------------------------------------------------------------------------------------------------------
      |  FRONT END                                                                                                          |
