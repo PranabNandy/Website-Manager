@@ -47,7 +47,7 @@ Steps -->
 <h4>  software used----XAMPP(Provides tools--Apache server and Mysql database) </h4>  
 
 
-<h2>Tools------------</h2>
+<h1>Tools </h1>
 
 <h4>  a)Apache Server  </h4>  
 
