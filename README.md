@@ -32,14 +32,14 @@ Steps-1)Install XAMPP on your system(preferably UBUNTU)
                  b)Type url http://localhost/NITK-CSE/
                  c)Now you can navigate through the sites
 
-Technology Used--
-                 a)PHP----------For basic code
+#Technology Used--
+<h4>                 a)PHP----------For basic code
                  b)Javascript---Some Interactive Features
                  c)CSS----------For styling the web page
                  d)sql----------For database query
                  e)HTML---------For Body elements on web page
                  
-                 
+</h4>                 
 software used----XAMPP(Provides tools--Apache server and Mysql database)
 
 
