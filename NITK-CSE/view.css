@@ -1,0 +1,119 @@
+body{
+    font-family:courier;
+  }
+.login{  
+        width: 1500px;
+        overflow: hidden;  
+        margin: auto;  
+        margin: 20 0 0 50px;  
+        padding: 20px;   
+        border-radius: 10px ;         
+}  
+.top{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(29, 86, 124);
+}
+
+.navigation{
+    display: flex;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.name{
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.navigation>div{
+    margin-right: 1em;
+    margin-left: .5em;
+}
+
+.non-nav div{
+    color: rgb(255, 255, 255);
+    margin-right: .5em;
+    font-weight: bolder;
+}
+
+.non-nav div ul{
+    display: none;
+    list-style-type: none;
+    margin-right: 0.5em;
+}
+
+.hovers li{
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: -1.5em;
+    margin-right: 1em;
+    color: rgb(29, 86, 124);
+    border-bottom: 3px dotted rgb(29, 86, 124);
+}
+.non-nav div:hover .hovers{
+    display: block;
+    position: absolute;
+    background:  rgb(254, 254, 255);;
+    margin-top:15px ;
+    margin-left: -15px;
+    border: 2px solid rgb(29, 86, 124);
+    
+}
+
+.top div a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
+.ABOUT a:hover{
+    color: brown;
+}
+
+.EDUCATION a:hover{
+    color: brown;
+}
+
+.SKILLS a:hover{
+    color: brown;
+}
+
+.PROJECT a:hover{
+    color: brown;
+}
+
+.EXTRA a:hover{
+    color: brown;
+}
+
+.x::after{
+    content: '';
+    display: block;
+    width: 0%;
+    height: 2px;
+    background-color: brown;
+    transition: width .3;
+}
+
+.current{
+    background-color: rgb(121, 170, 182);
+    padding: 0.8em;
+    border-radius: 3PX;
+}
+
+.x:hover::after{
+    width: 100%;
+    transition: width .3s;
+}
+
+#tb{
+	border-style: solid;
+	border-color: blue;
+	width:500px;
+}
+
+#tb tr{
+	background-color: lightblue;
+}

@@ -1,0 +1,147 @@
+/*Styling common to all the html page that includes body and top navigation bar*/
+body{
+  font-family:courier;
+}
+.top{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(29, 86, 124);
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.navigation{
+    display: flex;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.name{
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.navigation>div{
+    margin-right: 1em;
+    margin-left: .5em;
+}
+
+
+.hovers li{
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: -1.5em;
+    margin-right: 1em;
+    color: rgb(29, 86, 124);
+    border-bottom: 3px dotted rgb(29, 86, 124);
+}
+.non-nav div:hover .hovers{
+    display: block;
+    position: absolute;
+    background:  rgb(254, 254, 255);;
+    margin-top:15px ;
+    margin-left: -15px;
+    border: 2px solid rgb(29, 86, 124);
+    
+}
+
+.top div a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
+.ABOUT a:hover{
+    color: brown;
+}
+
+.EDUCATION a:hover{
+    color: brown;
+}
+
+.SKILLS a:hover{
+    color: brown;
+}
+
+.PROJECT a:hover{
+    color: brown;
+}
+
+.EXTRA a:hover{
+    color: brown;
+}
+
+.x::after{
+    content: '';
+    display: block;
+    width: 0%;
+    height: 2px;
+    background-color: brown;
+    transition: width .3;
+}
+
+.current{
+    background-color: rgb(121, 170, 182);
+    padding: 0.8em;
+    border-radius: 3PX;
+}
+
+.x:hover::after{
+    width: 100%;
+    transition: width .3s;
+}
+
+/* commom to all */
+#d_topmost{
+	
+}
+
+
+/* new */
+
+
+#d_xy1{
+  padding:3em;
+}
+
+#d_xy1 table{
+	margin-left:auto;
+        margin-right:auto;
+        border-radius:1em;
+}
+
+#d_xy2{
+  padding:3em;
+}
+
+#d_xy2 table{
+	margin-left:auto;
+        margin-right:auto;
+        border-radius:1em;
+}
+
+#d_xy3{
+  padding:3em;
+}
+
+#d_xy3 table{
+	margin-left:auto;
+        margin-right:auto;
+        border-radius:1em;
+}
+
+#d_xy4{
+  padding:3em;
+}
+
+#d_xy4 table{
+	margin-left:auto;
+        margin-right:auto;
+        border-radius:1em;
+}
+
+#d_childs button{
+	color:red;
+}
+

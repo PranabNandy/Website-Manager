@@ -1,0 +1,49 @@
+body{
+    font-family:courier;
+  }
+
+.formstyle{
+    width: 25%;
+    margin: auto;
+    padding: 2em;
+    border: 2px solid rgb(136, 133, 133);
+    border-radius:10px;
+    border-color: rgb(39, 73, 145);
+    margin-top: 8em;
+}
+.current{
+    background-color: rgb(121, 170, 182);
+    padding: 0.8em;
+    border-radius: 3PX;
+    margin-left: 0.5em;
+}
+.formstyle form{
+    flex-direction: column;
+    display: flex;
+}
+
+form input{
+    margin-bottom: 1em;  
+}
+
+form label{
+    font-weight:bold;
+}
+.top{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(29, 86, 124);
+}
+.top div a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-weight: bold;
+}
+.navigation{
+    display: flex;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+.EXTRA a:hover{
+    color: brown;
+}
