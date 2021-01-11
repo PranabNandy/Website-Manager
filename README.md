@@ -36,7 +36,7 @@ Steps -->
                  b)Type url http://localhost/NITK-CSE/
                  c)Now you can navigate through the sites
 
-<h3>Technology Used--</h3>
+<h1>Technology Used </h1>
 <h4>                 a)PHP----------For basic code  </h4>  
  <h4>                  b)Javascript---Some Interactive Features   </h4>  
  <h4>                  c)CSS----------For styling the web page   </h4>  
