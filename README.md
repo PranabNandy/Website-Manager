@@ -3,7 +3,11 @@ It contains A Management Software which manages the contains of Website easily w
 
 Preinstallations-1)XAMPP software
 
-Steps-1)Install XAMPP on your system(preferably UBUNTU)
+Steps -->
+      
+      1)Install XAMPP on your system(preferably UBUNTU)
+
+
       2)Copy the NIT-CSE Folder in htdocs folder in Xampp.
       
         To find htdocs folder, computer--->opt--->lampp--->htdocs
